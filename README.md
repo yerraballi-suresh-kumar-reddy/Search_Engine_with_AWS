@@ -5,3 +5,7 @@ Payload for AWS Lambda
     "what is machine learning"
   ]
 }
+
+SerpAPI is Lambda Layer
+
+SerpAPI Search is Lambda Function
